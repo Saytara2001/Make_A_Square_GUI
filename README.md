@@ -33,8 +33,8 @@ pieces or keep them on their original state to form that perfect 4x4 square.</p>
 
 <h3 align="left">More Examples:</h3>
 
-1-L=2, J=2
-2-L=2, I=2
+<p>1-L=2, J=2</p>
+<p>2-L=2, I=2</p>
 3-L=2, O=2
 4-I=2, J=2
 5-L=2, Z=2
