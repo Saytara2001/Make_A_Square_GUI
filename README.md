@@ -35,16 +35,16 @@ pieces or keep them on their original state to form that perfect 4x4 square.</p>
 
 <p>1-L=2, J=2</p>
 <p>2-L=2, I=2</p>
-3-L=2, O=2
-4-I=2, J=2
-5-L=2, Z=2
-6-S=2, J=2
-7-L=1, J=1, I=1, Z=1
-8-L=2, I=2, O=1
-9-L=4
-10-O=4
-11-I=4
-12-J=4
+<p>3-L=2, O=2</p>
+<p>4-I=2, J=2</p>
+<p>5-L=2, Z=2</p>
+<p>6-S=2, J=2</p>
+<p>7-L=1, J=1, I=1, Z=1</p>
+<p>8-L=2, I=2, O=1</p>
+<p>9-L=4</p>
+<p>10-O=4</p>
+<p>11-I=4</p>
+<p>12-J=4</p>
 
 
 
